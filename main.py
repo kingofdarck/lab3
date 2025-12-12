@@ -1,2 +1,2 @@
-print("Hello, Aliaksei!")
+print("Hello, dear Aliaksei!")
 
